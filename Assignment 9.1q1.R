@@ -1,0 +1,5 @@
+#1. If Z is norm (mean = 0, sd = 1)
+#find P(Z > 2.64)
+pnorm(2.64,lower.tail= FALSE)
+#2.find P(|Z| > 1.39)
+pnorm(-1.39)
